@@ -12,22 +12,33 @@ This project is a Streamlit-based web application that predicts loan approval st
 
 # How It Works
 The user enters financial and personal details such as income, loan amount, credit score, and employment details.
+
 The machine learning model processes the input and predicts whether the loan application will be approved or denied.
+
 The result is displayed instantly on the Streamlit web app.
 
 # Technologies Used
-Python
-Streamlit (for GUI development)
-Scikit-Learn (for machine learning model)
-Pandas & NumPy (for data processing)
-Joblib (for model deployment)
+1. Python
+
+2. Streamlit (for GUI development)
+
+3. Scikit-Learn (for machine learning model)
+
+4. Pandas & NumPy (for data processing)
+
+5. Joblib (for model deployment)
 
 # Installation & Usage
-Clone the repository: git clone https://github.com/yourusername/loan-status-app.git
-cd loan-status-app
 
-2.Install dependencies:pip install -r requirements.txt
+1. Clone the repository: 
+   git clone https://github.com/Rachit-Jain-24/Loan-Status-Approval-Prediction-GUI-model
+   cd Loan-Status-Approval-Prediction-GUI-model
 
-3. Run the Streamlit app: streamlit run app.py
+2. Install dependencies:
+   pip install -r requirements.txt
 
-# Contributors: Rachit Jain and Team
+3. Run the Streamlit app:
+   streamlit run app.py
+
+# Contributors: 
+  Rachit Jain and Team
