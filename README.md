@@ -32,12 +32,13 @@ The result is displayed instantly on the Streamlit web app.
 
 1. Clone the repository: 
    git clone https://github.com/Rachit-Jain-24/Loan-Status-Approval-Prediction-GUI-model
+   
    cd Loan-Status-Approval-Prediction-GUI-model
 
-2. Install dependencies:
+3. Install dependencies:
    pip install -r requirements.txt
 
-3. Run the Streamlit app:
+4. Run the Streamlit app:
    streamlit run app.py
 
 # Contributors: 
